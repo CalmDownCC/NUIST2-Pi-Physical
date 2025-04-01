@@ -1,3 +1,6 @@
+#name:Shengming Zhang
+#date:1/4/25
+#description:LED on,after 1 minute ,LED off
 import RPi.GPIO as GPIO 
 import time 
 GPIO.setmode(GPIO.BCM) 
