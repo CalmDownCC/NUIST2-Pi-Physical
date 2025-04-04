@@ -1,3 +1,6 @@
+#name:Shengming Zhang
+#date:4/4/25
+#description:ask 3 questions and score 1 for correct answer
 # NUIST Quiz Game in Python
 def quiz():
    print ("Welcome to the Animal Quiz!")
